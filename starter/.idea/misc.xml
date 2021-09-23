@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic__164580.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic__176959.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic__46.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic__onboard.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic_add.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic_onboard.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/drawable/ic_sneaker_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/activity_main.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/add_shoe.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/instruction_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/list_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/login_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/shoe_item.xml" value="0.25" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/layout/welcome_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/menu/menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/mipmap-anydpi-v26/ic_sneaker.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/gabrielle.poli.PITAGORAS/Documents/dev/Estudos/Udacity/nd940-android-kotlin-course1-starter/starter/app/src/main/res/mipmap-anydpi-v26/ic_sneaker_round.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

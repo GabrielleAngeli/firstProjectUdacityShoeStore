@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <string name="login">Login</string>
+    <string name="title_email">Email</string>
+    <string name="title_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="text_button_new_account">Register new account</string>
+    <string name="title_welcome">WELCOME!</string>
+    <string name="sub_title">" WE BELIEVE IN POWER FROM SPORT TO MOVE THE WORLD"</string>
+    <string name="button_next">Next</string>
+    <string name="actionBarTitle"> </string>
+    <string name="button_cancel">Cancel</string>
+    <string name="buton_add">Add</string>
+    <string name="shoe_name">Shoe name</string>
+    <string name="company_name">Company name</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_edit">Edit</string>
+    <string name="shoe_list">SHOE LIST</string>
+    <string name="bar_add">New Shoe</string>
+    <string name="bar_welcome">Welcome</string>
+    <string name="bar_instructions">Instructions</string>
+    <string name="bar_login">Login</string>
+    <string name="onboarding_subtitle">Here begins a new way to keep your shoes up to date</string>
+    <string name="instruction_subtitle">Before starting, some very important points: </string>
+    <string name="instruction_text_one">Whenever you need, feel free to add new shoes via the add button.</string>
+    <string name="instruction_text_two">Or you can just browse the list of shoes you have already registered.</string>
+
 </resources>

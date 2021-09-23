@@ -1,4 +1,4 @@
-package com.udacity.shoestore.screens.addItem
+package com.udacity.shoestore.screens.list
 
 import android.content.Context
 import android.util.AttributeSet
@@ -9,6 +9,7 @@ import androidx.databinding.DataBindingUtil
 import com.udacity.shoestore.R
 import com.udacity.shoestore.databinding.ShoeItemBinding
 import com.udacity.shoestore.models.Shoe
+import kotlinx.android.synthetic.main.shoe_item.view.*
 
 class ShoeItem: LinearLayout {
     constructor(context: Context) : super(context)
@@ -21,10 +22,10 @@ class ShoeItem: LinearLayout {
     fun loadShoe(shoe: Shoe) {
         binding.apply {
             addView(this.root)
-            tvName.text = shoe.name
-//            tvCompany.text = shoe.company
-//            tvSize.text = shoe.size
-//            tvDescription.text = shoe.description
+            shoeName.text = shoe.name
+            companyName.text = shoe.company
+            size.text = shoe.size
+            description.text = shoe.description
         }
     }
 }

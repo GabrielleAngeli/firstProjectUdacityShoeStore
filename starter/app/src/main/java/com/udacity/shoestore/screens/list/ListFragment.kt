@@ -1,7 +1,8 @@
-package com.udacity.shoestore.screens.addItem
+package com.udacity.shoestore.screens.list
 
 import android.os.Bundle
 import android.view.*
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
@@ -13,6 +14,7 @@ import androidx.lifecycle.Observer
 import com.udacity.shoestore.models.Shoe
 import com.udacity.shoestore.R
 import com.udacity.shoestore.databinding.ListFragmentBinding
+import com.udacity.shoestore.screens.addItem.AddItemViewModel
 
 
 class ListFragment : Fragment() {
@@ -60,7 +62,9 @@ class ListFragment : Fragment() {
                 createShoes(shoes)
             }
         })
-        //(activity as AppCompatActivity).supportActionBar?.title = getString(R.string.collection_title)
+
+        (activity as AppCompatActivity).supportActionBar?.setDisplayHomeAsUpEnabled(false)
+        (activity as AppCompatActivity).supportActionBar?.title = getString(R.string.shoe_list)
     }
 
     private fun createShoes(shoes: List<Shoe>) {

@@ -35,7 +35,7 @@
             android:layout_marginBottom="16dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@={addViewModel.name}"
+            android:text="@{addViewModel.name}"
             app:layout_constraintBottom_toTopOf="@+id/title_company_name"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="@+id/title_shoe_name" />
@@ -60,7 +60,7 @@
             android:layout_marginBottom="16dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@={addViewModel.company}"
+            android:text="@{addViewModel.company}"
             app:layout_constraintBottom_toTopOf="@+id/title_size"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="@+id/title_company_name" />
@@ -83,7 +83,7 @@
             android:layout_marginBottom="16dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@={addViewModel.size}"
+            android:text="@{addViewModel.size}"
             app:layout_constraintBottom_toTopOf="@+id/title_description"
             app:layout_constraintStart_toStartOf="@+id/title_size" />
 
@@ -108,7 +108,7 @@
             android:layout_marginBottom="144dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@={addViewModel.description}"
+            android:text="@{addViewModel.description}"
             app:layout_constraintBottom_toTopOf="@+id/button_cancel"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"

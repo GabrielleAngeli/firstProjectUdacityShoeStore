@@ -44,11 +44,11 @@ class AddItemFragment : Fragment() {
 
         binding.lifecycleOwner = this
 
-        binding.addViewModel = Shoe("Set Name","2","Set Company","Give Description")
+        binding.shoe = Shoe("Set Name","2","Set Company","Give Description")
 
 
         binding.buttonAdd.setOnClickListener { view ->
-            val shoe = binding.addViewModel
+            val shoe = binding.shoe
 
             addViewModel.saveValue(shoe)
 
